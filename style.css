@@ -1,0 +1,32 @@
+/* google font link */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+   
+}
+@media screen and (max-width:575px){
+    h1{
+        font-size:1rem;
+    }
+    p{
+        font-size:0.5rem;
+    }
+   
+    
+}
+@media screen and (min-width:576px) and (max-width:767px){
+    h1{
+        font-size:1rem;
+    }
+    p{
+        font-size:0.5rem;
+    }
+    
+}
+ 
+  
