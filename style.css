@@ -10,16 +10,15 @@ body {
     font-family: 'Poppins', sans-serif;
 
 }
+.elearning-Institute-section-bg{
+    background-color: #F4FAFD;
+}
 
 img {
     width: 100%;
 }
 
-.courses-section .card img {
-    height: 100%;
-    max-height: 310px;
-
-}
+ 
 
 @media screen and (max-width:575px) {
 
@@ -29,7 +28,7 @@ img {
 
     }
 
-    p {
+    p,span{
         font-size: 0.8rem;
     }
 
@@ -43,6 +42,7 @@ img {
     footer small{
         font-size: 0.58rem;
     }
+     
 
 
 
@@ -61,14 +61,14 @@ img {
     }
 
 
-    p {
+    p,span{
         font-size: 0.9rem;
     }
 
     h5 {
         font-size: 1rem;
     }
-    small{
+    footer  small{
         font-size: 0.7rem;
     }
 
@@ -87,14 +87,14 @@ img {
         font-size: 0.8rem;
     }
 
-    p {
+    p,span {
         font-size: 1rem;
     }
 
     h5 {
         font-size: 1.3rem;
     }
-    small{
+    footer  small{
         font-size: 0.84rem;
     }
 
@@ -114,14 +114,14 @@ img {
         font-size: 0.9rem;
     }
 
-    p {
+    p,span{
         font-size: 0.9rem;
     }
 
     h5 {
         font-size: 1.2rem;
     }
-    small{
+    footer small{
         font-size: 0.8rem;
     }
 
