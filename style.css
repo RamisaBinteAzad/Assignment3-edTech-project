@@ -30,15 +30,18 @@ img {
     }
 
     p {
-        font-size: 0.9rem;
+        font-size: 0.8rem;
     }
 
     header p {
-        font-size: 0.5rem;
+        font-size: 0.56rem;
     }
 
     h5 {
         font-size: 1rem;
+    }
+    footer small{
+        font-size: 0.58rem;
     }
 
 
@@ -65,6 +68,10 @@ img {
     h5 {
         font-size: 1rem;
     }
+    small{
+        font-size: 0.7rem;
+    }
+
 
 }
 
@@ -87,6 +94,10 @@ img {
     h5 {
         font-size: 1.3rem;
     }
+    small{
+        font-size: 0.84rem;
+    }
+
 
 
 }
@@ -110,5 +121,9 @@ img {
     h5 {
         font-size: 1.2rem;
     }
+    small{
+        font-size: 0.8rem;
+    }
+
 
 }
